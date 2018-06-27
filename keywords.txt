@@ -1,0 +1,14 @@
+BH1750	KEYWORD1
+miBH1750	KEYWORD1
+Init	KEYWORD2
+Shut_down	KEYWORD2
+Reset	KEYWORD2
+GetLightIntensity	KEYWORD2
+addr_L	LITERAL1
+addr_H	LITERAL1
+cont_H_res	LITERAL1
+cont_H_res2	LITERAL1
+cont_L_res	LITERAL1
+oneTime_H_res	LITERAL1	
+oneTime_H_res_2	LITERAL1
+oneTime_L_res	LITERAL1
